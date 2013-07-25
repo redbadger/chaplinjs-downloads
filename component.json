@@ -5,6 +5,6 @@
   "main": "chaplin.js",
   "scripts": ["chaplin.js"],
   "dependencies": {
-    "backbone": "1.x"
+    "components/backbone": "*"
   }
 }
